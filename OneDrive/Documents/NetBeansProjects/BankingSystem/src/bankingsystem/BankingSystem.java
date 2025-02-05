@@ -23,7 +23,7 @@ public class BankingSystem {
      */
     private static final String url = "jdbc:mysql://localhost:3306/banking_system";
     private static final String id = "root";
-    private static final String password = "@DMINmSaQnL123";
+    private static final String password = "";
 
     public static void main(String[] args) throws ClassNotFoundException, SQLException, InterruptedException {
         // TODO code application logic here
